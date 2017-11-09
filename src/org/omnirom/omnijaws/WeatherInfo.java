@@ -121,13 +121,13 @@ public class WeatherInfo {
             "SE",
             "SSE",
             "S",
-            "SSW",
-            "SW",
-            "WSW",
-            "W",
-            "WNW",
-            "NW",
-            "NNW"
+            "SSO",
+            "SO",
+            "OSO",
+            "O",
+            "ONO",
+            "NO",
+            "NNO"
     };
 
     public String getId() {
